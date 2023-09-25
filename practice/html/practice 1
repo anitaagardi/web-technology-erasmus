@@ -1,0 +1,24 @@
+1.html
+- Heading level 1 (h1): "First practice"
+- Heading level 2 (h2): "Unordered list"
+  - unordered list: Apple, Lemon, Orange
+- Heading 2 (h2): "Ordered list"
+  -ordered list: Fruits, Cars, Restaurants
+- Heading 2: "Table"
+  - table: Name, Age, Address
+          Robert, 20, Miskolc
+          Lia, 15, Budapest
+          Sandra, 23, Debrecen
+- Heading 2: "Figure"
+    - figure (any figure)
+- Heading 2: "Form elements"
+    - input: Name
+    -input: Age
+    - input: Address
+    - input: password
+    - select: "Favourite color"
+          - Black, Red, Green ....
+    - multiple select: "Hobby"
+          - computer game, music, tv, films....
+    - radio button: female, male
+    - button: "Add person"
