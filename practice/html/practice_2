@@ -1,0 +1,21 @@
+2.html
+
+- Heading level 1 (h1): "Second practice"
+- Heading level 2 (h2): Table with colspan
+  Name Age
+  Jill Smith 43
+  Eve Jackson 57
+  -Heading level 2 (h2): Table with rowspan
+  Name Jill Eve
+  Phone 555-1234 524-4881
+  555-8745 555-7771
+- Heading level 2 (h2): Bold text
+  - This is a bold text
+- Heading level 2 (h2): Italic text
+  -This is an italic text
+- Heading level 2 (h2): Paragraph
+  -This text is in a paragraph
+
+- Heading level 2(h2): Link
+- link to the University of Miskolc https://www.uni-miskolc.hu/
+- link to the Faculty of Mechanical Engineering and Informatics https://gepesz.uni-miskolc.hu/
