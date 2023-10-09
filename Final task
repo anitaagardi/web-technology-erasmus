@@ -1,0 +1,22 @@
+HTML:
+- div, span, p, headings (h1-h6)
+- images
+- table
+- links
+- - form elements:
+    	- text input: one line, multiple line (textarea)
+    	- checkbox
+    	- radio button
+    	- color picker
+    	- date picker
+      - buttons
+- ordered list
+- unordered list
+- multiple HTML files, minimum 4, link together
+The HTML can have any topics.
+
+CSS:
+styling the HTML:
+- table, form elements
+- images (if needed)
+- background
